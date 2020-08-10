@@ -1,21 +1,3 @@
-# TRF
+# Examples
 
-Implementation of the TRF
-
-## Information
-
-
-
-- More information on GPAR can be found at [GPAR's Repo Page](https://github.com/wesselb/gpar) 
-- More information on HMM and SLDS can be found at SSM['s Repo Page](https://github.com/slinderman/ssm)
-- More information on MOGPTK can be found at [MOGPTK's Repo Page](https://github.com/GAMES-UChile/mogptk)
-
-
-## Requirements and Installation
-* GPAR
-	- pip install gpar
-* HMM and SLDS
-	- pip install ssm
-* MOGPTK
-	- pip install mogptk
-
+Here our group has provided example of our 4 different models using the sample.csv. Because our data cannot be published publicly, we have created sample.csv to illustrate our examples. The way how we generated sample.csv can be found at Generate Synthetic Data folder.
