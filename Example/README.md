@@ -5,3 +5,6 @@ Here our group has provided example of our 4 different models using the [sample.
 - The example for HMM can be found at [its notebook](HMM.ipynb)
 - The example for SLDS can be found at [its notebook](SLDS.ipynb)
 - The example for MOGPTK can be found at [its notebook](MOGPTK.ipynb)
+- The example for Mixed Von Mises can be found in two different notebooks.
+	- Functions can be found in [this notebook](Mixed_Von_Mises_Functions.R)
+	- Fitting and methods can be found in [this notebook](Mixed Von Mises.R)
