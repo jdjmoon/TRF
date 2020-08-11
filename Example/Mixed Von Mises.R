@@ -1,5 +1,5 @@
 #read in the file 
-s=read.csv('/Users/chentianyi/Downloads/sample.csv')
+s=read.csv('sample.csv')
 # save all time points into one vector for fitting
 test=s[,c(4:7)]
 time1=as.vector(t(test))
